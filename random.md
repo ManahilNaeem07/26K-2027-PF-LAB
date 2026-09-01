@@ -5,3 +5,6 @@ git status
 git add
 git commit
 ```
+**Bold Size** \
+***ALL ITALIC AND BOLD*** \
+_Only Italic_ 
